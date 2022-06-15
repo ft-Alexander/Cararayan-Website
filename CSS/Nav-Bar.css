@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yesseva{
+    font-family: 'Yeseva One', cursive; 
+    font-weight:normal;
+    font-size: 55px;
+}
+.work{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.white-color{
+    color: white;
+}
+.white-color:hover{
+    color: #BFD2F8;
+}
+.bg-light{
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.top{
+    color: #1F2B6C;
+    text-align: left;
+}
+div.top.container{
+    display: flex;
+    align-items: center;
+}
+.navbar-nav p{
+    width:max-content;
+}
+.barangay{
+    font-family: 'Yeseva One'; 
+    font-size: 300%;
+}
+.nav-right{
+    padding-right: 30px;
+    margin-top: 16px;
+    font-size: 12px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+}
+.container-fluid.below{
+    background-color: #212124;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    color: white;
+    font-family: 'Work Sans', sans-serif,Regular;
+    font-weight: lighter;
+    padding: 1em 0 1em 0;
+    border-bottom: 1px solid black;
+}
+.navbar-expand-sm .navbar-nav .nav-link{
+    padding: 0 2em 0 2em;
+    color: white;
+}
+a.nav-link.navigation.current{
+    color: #BFD2F8;
+}
+a.nav-link.navigation:hover{
+    color: #BFD2F8;
+}
+.container-fluid.bottomnav{
+    background-color: #1F2B6C;
+    padding: 50px 0px 25px 0px;
+}
+.bottomnav.container ul li{
+    list-style: none;
+    color: white;
+    margin-right: 50px;
+}
+
+h1.barangay.bottom {
+    color: #BFD2F8;
+    letter-spacing: 0px;
+    font-size: 36px;
+    margin-bottom: 18px;
+}
+.bottom-content{
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.header-bottom{
+    font-weight: bold;
+    letter-spacing: 0px;
+    font-size: 18px;
+    width: max-content;
+}
+hr{
+    border: 1px solid white;
+}
+.copyright-logo{
+    margin-top: 2px;
+    width: 20px;
+    float: left;
+}
+p.work.copy-right{
+    padding-left: 30px;
+    color: white;
+    letter-spacing: 0px;
+    font-size: 16px;
+}
+.container.text-center li{
+    background-color: #BFD2F8;
+    list-style: none;
+    margin: 40px;
+    width:220px;
+    padding: 50px 15px;
+    border-radius: 10px;
+}
+p.work.contact-info{
+    letter-spacing: 0px;
+    font-size: 16px;
+    color: #1F2B6C;   
+}
+p.work strong{
+    letter-spacing: 0px;
+    font-size: 18px;
+    color: #1F2B6C;
+}
+.frequently{
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 16%;
+    color: #159EEC;
+}
+.barangay-service{
+    font-size: 32px;
+    color: #1F2B6C;
+}

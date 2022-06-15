@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+.Image_holder{
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0 0;
+}
+.text_block{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+.announcement{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.cararayan-background{
+    padding: 0 0 90px 0;
+}
+/* .center_text{
+    text-align: center;
+} */
+.button_service{
+    position: absolute;
+    top: 160px;
+    left: 97px;
+}
+.top_button{
+    color: #1F2B6C;
+    border-radius: 20px;
+    background-color: white;
+    border: 0px solid white;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+/* .spaces{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+} */
+/* .button_size{
+    width: 300px;
+    height: 80px;
+    border: 0px solid white;
+} */
+/* .ann{
+    background-color: #170E06;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+} */
+/* .proj{
+    background-color: #BFF8F8;
+    color: #170E06;
+    font-size: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+} */
+/* .space{
+    margin-left: 20px;
+} */
+.pb-10{
+    padding-bottom: 8%;
+}
+.welcome-cararayan{
+    font-size: 18px;
+    font-weight: 900;
+    color: #159EEC;
+}
+.a-great-place{
+    font-size: 32px;
+    font-weight: bold;
+    color: #1F2B6C;
+}
+
+.cararayan-is-a-barangay{
+    font-size: 16px;
+    letter-spacing: 0;
+}
+.learn-more{
+    font-size: 16px;
+    text-decoration: none;
+    letter-spacing: 0;
+}
+.carousel.slide.container.carousel-dark{
+    background-color: #2B1909;
+    padding: 50px 0 0px 100px;
+    border-radius: 20px;
+}
+.round{
+    border-radius: 20px;    
+}
+.barangay-clearance{
+    color: black;
+}
+.news-hover:hover{
+    background-color: #F5F5F5;
+}
+.news-details{
+    font-size:15px; 
+    letter-spacing: 0px; 
+    padding-top: 10px;
+}
+.how{
+    text-align: center;
+    font-weight:bold;
+    font-size: 20px;
+    letter-spacing: 5px;
+    color: #56AEFF;
+}
+.details{
+    font-size: 14px;
+    letter-spacing: 0;
+    color: white;
+}
+.Announcement_holder{
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0 0;
+}
+.announcement_block{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    color: black;
+    text-align: left;
+}
+.annoucement-details{
+    width: 50%;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 25px;
+}
+.announcement-title{
+    color: #159EEC;
+}
+.big-calendar{
+    position: absolute;
+    bottom: -5%;
+    right: 5%;
+}
+.Announcement-image{
+    padding-bottom: 90px;
+}
+.btn-outline-primary{
+    background-color: #1F2B6C;
+    color: white;
+    border: 0px solid #ccc;
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+div.carousel-inner.first-carousel.officer{
+    padding: 0;
+    padding-bottom: 80px;
+    background-color: white;
+}
+.carousel-dark .carousel-indicators [data-bs-target]{
+    height: 5px;
+    width: 90px;
+    background-color:#BFD2F8 ;
+
+}
+.carousel-dark .carousel-indicators [data-bs-target].active{
+    background-color: white;
+}
+.officer-background{
+    background-color: #BFD2F8;
+    border: 0px solid #ccc;
+}
+h4.work.card-title{
+    font-size: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+}
+p.work.card-text{
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+img.card-img-top{
+    border-bottom: 20px solid white;
+}
+

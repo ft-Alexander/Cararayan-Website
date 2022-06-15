@@ -1,0 +1,23 @@
+.Image_holder{
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0 0;
+    margin: 120px 0 20px 0;
+}
+.text_block{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.contact_slogan{
+    color: #1F2B6C;
+    width: max-content;
+}
+.AboutUs_slogan{
+    color: #1F2B6C;
+    width: max-content;
+  }
+.btn.btn-success.btn-send.pt-2{
+    background-color: #1F2B6C;
+}

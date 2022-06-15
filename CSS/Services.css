@@ -1,0 +1,48 @@
+div.Image_holder.container-fluid.text-center{
+    padding: 100px 0 100px 0;
+}
+.Image_holder{
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0 0;
+    
+}
+.AboutUs_slogan{
+    color: #1F2B6C;
+    width: max-content;
+  }
+.text_block{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.service_slogan{
+    color: #1F2B6C;
+    width: max-content;
+}
+.modal-title.yesseva{
+    font-size: 30px;
+}
+.learn-more{
+    background-color: #1F2B6C ;
+    border: 0px solid #FFFFFF;
+}
+.card-title.work{
+    letter-spacing: 0px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #1F2B6C;
+}
+.btn.btn-primary.work{
+    font-size: 15px;
+    background-color: #FFFFFFFF;
+    color: blue;
+}
+.btn:focus{
+    outline: none;
+    box-shadow: none;
+}
+.modal-dialog{
+    max-width: 1250px;
+}

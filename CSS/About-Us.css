@@ -1,0 +1,40 @@
+div.Image_holder.container-fluid.text-center{
+  padding: 120px 0 100px 0;
+}
+.Image_holder{
+  position: relative;
+  display: inline-block;
+  padding: 0 0 0 0;
+  
+}
+.text_block{
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.AboutUs_slogan{
+  color: white;
+  width: max-content;
+}
+.AboutUs_slogan.vision{
+  position: absolute;
+  bottom: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.card{
+  border: 0px solid white;
+}
+.card-body.text-center{
+  background-color: #DBE2FC;
+}
+.yesseva.card-title{
+  color: #1F2B6C;
+  font-size: 20px;
+}
+.work.card-detail{
+  color: #1F2B6C;
+  font-size: 20px;
+  letter-spacing: 0px;
+}
